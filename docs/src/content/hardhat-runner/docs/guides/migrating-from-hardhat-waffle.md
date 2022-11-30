@@ -1,6 +1,6 @@
 # Migrating away from hardhat-waffle
 
-Our recommended setup used to include [Waffle] using our [`hardhat-waffle`] plugin.
+We previously recommended including [Waffle] using our [`hardhat-waffle`] plugin.
 
 We now recommend using our [Hardhat Chai Matchers] and [Hardhat Network Helpers] instead.
 
